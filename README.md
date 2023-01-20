@@ -16,10 +16,10 @@ Bu proje, bitki yetiştirme ve bakımı için geliştirilen bir sistemdir. Siste
 - Halktan
 
 ## Dökümantasyon
-[Dökümantasyon için tıklayın](github.com/FurkanHuman/Akilli-Saksi/tree/master/Dökümanlar "Dökümantasyon için tıklayın")
+[Dökümantasyon için tıklayın](https://github.com/FurkanHuman/Akilli-Saksi/tree/master/D%C3%B6k%C3%BCmanlar "Dökümantasyon için tıklayın")
 
 ## Kodlar
-[Kodlar için tıklayın](github.com/FurkanHuman/Akilli-Saksi/tree/master/Kod "Kodlar için tıklayın")
+[Kodlar için tıklayın](https://github.com/FurkanHuman/Akilli-Saksi/tree/master/Kod/Akilli-Saksi "Kodlar için tıklayın")
 
 ## S.S.S
     - Buraya 
